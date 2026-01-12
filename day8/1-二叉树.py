@@ -63,4 +63,3 @@ if __name__ == '__main__':
     tree.last_order(tree.root)
     print()
     tree.lever_order()
-
